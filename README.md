@@ -1,1 +1,1 @@
-# This project is to learn C Programming
+This project is to learn C Programming
