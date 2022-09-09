@@ -1,1 +1,1 @@
-This project is to learn C Programming
+variables, if_else, for, while
